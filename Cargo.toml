@@ -6,6 +6,9 @@ authors = [ "Hazel Stagner" ]
 description = "A minimal crate for decoding ROQ video streams"
 license = "MIT"
 readme = "README.md"
+repository = "https://github.com/GlaireDaggers/roq-dec-rs"
+keywords = ["gamedev", "graphics", "av", "video", "codec"]
+categories = ["encoding","game-development","multimedia::encoding"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
