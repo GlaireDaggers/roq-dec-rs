@@ -1,0 +1,14 @@
+[package]
+name = "roq-dec"
+version = "0.1.0"
+edition = "2021"
+authors = [ "Hazel Stagner" ]
+description = "A minimal crate for decoding ROQ video streams"
+license = "MIT"
+readme = "README.md"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+byteorder = "1.4.3"
+lazy_static = "1.4.0"
